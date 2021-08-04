@@ -1,0 +1,3 @@
+Embora o teste de unidade teste uma única unidade do aplicativo, ele não é integrado com outras partes (como métodos), 
+O teste funcional testa parte da função do sistema, ou seja, pode envolver muitos métodos e muitas classes. 
+Para tanto, para cada teste funcional, um ou mais testes unitários serão implementados.
