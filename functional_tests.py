@@ -34,5 +34,6 @@ class NewVisitorTest(unittest.TestCase):
         
         self.browser.quit()
 
+
 if __name__ == '__main__':
     unittest.main()
