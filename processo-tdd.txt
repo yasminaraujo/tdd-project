@@ -1,0 +1,5 @@
+No TDD usando teste funcional e teste de unidade, conforme mostrado na figura, 
+escrevemos um teste funcional e, se o teste funcional falhar, devemos escrever 
+um teste de unidade e, em seguida, escrever o código mínimo até que ele seja aprovado. 
+Se o código precisa ser refatorado, precisamos refatorar e executar o teste de unidade novamente. 
+O mesmo é verdadeiro para o teste funcional.
